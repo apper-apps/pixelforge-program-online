@@ -1,0 +1,194 @@
+[
+  {
+    "Id": 1,
+    "name": "PNG Optimizer Pro",
+    "description": "Advanced PNG optimization tool with lossless compression and transparency preservation. Reduce file sizes by up to 80% without quality loss.",
+    "category": "PNG Tools",
+    "supportedFormats": ["PNG", "PNG-8", "PNG-24", "PNG-32"],
+    "performanceScore": 92,
+    "downloadUrl": "https://example.com/png-optimizer-pro",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop"
+    ],
+    "featured": true,
+    "fileSize": "2.4 MB",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "WebP Converter Ultra",
+    "description": "Convert any image format to WebP with advanced compression algorithms. Supports batch processing and quality optimization.",
+    "category": "WebP Tools",
+    "supportedFormats": ["JPEG", "PNG", "TIFF", "BMP", "GIF", "WebP"],
+    "performanceScore": 88,
+    "downloadUrl": "https://example.com/webp-converter-ultra",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558655146-364adaf25c31?w=400&h=300&fit=crop"
+    ],
+    "featured": true,
+    "fileSize": "1.8 MB",
+    "lastUpdated": "2024-01-12T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "JPEG Quality Enhancer",
+    "description": "Enhance JPEG images with AI-powered quality improvement and compression optimization. Perfect for photography workflows.",
+    "category": "JPEG Tools",
+    "supportedFormats": ["JPEG", "JPG", "JFIF"],
+    "performanceScore": 85,
+    "downloadUrl": "https://example.com/jpeg-quality-enhancer",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=300&fit=crop"
+    ],
+    "featured": true,
+    "fileSize": "3.2 MB",
+    "lastUpdated": "2024-01-10T09:15:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "SVG Optimizer",
+    "description": "Clean and optimize SVG files by removing unnecessary code and metadata. Reduce file sizes while maintaining scalability.",
+    "category": "SVG Tools",
+    "supportedFormats": ["SVG", "SVGZ"],
+    "performanceScore": 90,
+    "downloadUrl": "https://example.com/svg-optimizer",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop"
+    ],
+    "featured": true,
+    "fileSize": "1.1 MB",
+    "lastUpdated": "2024-01-08T11:45:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "AVIF Converter",
+    "description": "Convert images to the next-generation AVIF format with superior compression and quality. Future-proof your images.",
+    "category": "AVIF Tools",
+    "supportedFormats": ["JPEG", "PNG", "WebP", "TIFF", "AVIF"],
+    "performanceScore": 95,
+    "downloadUrl": "https://example.com/avif-converter",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558655146-364adaf25c31?w=400&h=300&fit=crop"
+    ],
+    "featured": true,
+    "fileSize": "2.7 MB",
+    "lastUpdated": "2024-01-05T16:20:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "Batch Image Resizer",
+    "description": "Resize hundreds of images simultaneously with smart cropping and aspect ratio preservation. Perfect for e-commerce and portfolios.",
+    "category": "Batch Tools",
+    "supportedFormats": ["JPEG", "PNG", "WebP", "TIFF", "BMP", "GIF"],
+    "performanceScore": 87,
+    "downloadUrl": "https://example.com/batch-resizer",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=300&fit=crop"
+    ],
+    "featured": false,
+    "fileSize": "2.1 MB",
+    "lastUpdated": "2024-01-03T13:10:00Z"
+  },
+  {
+    "Id": 7,
+    "name": "GIF Optimizer",
+    "description": "Optimize animated GIFs with advanced compression techniques. Reduce file sizes while maintaining animation quality.",
+    "category": "GIF Tools",
+    "supportedFormats": ["GIF", "Animated GIF"],
+    "performanceScore": 83,
+    "downloadUrl": "https://example.com/gif-optimizer",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop"
+    ],
+    "featured": false,
+    "fileSize": "1.9 MB",
+    "lastUpdated": "2024-01-01T08:00:00Z"
+  },
+  {
+    "Id": 8,
+    "name": "HEIC Converter",
+    "description": "Convert Apple's HEIC format to standard JPEG and PNG. Perfect for cross-platform compatibility.",
+    "category": "HEIC Tools",
+    "supportedFormats": ["HEIC", "HEIF", "JPEG", "PNG"],
+    "performanceScore": 89,
+    "downloadUrl": "https://example.com/heic-converter",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558655146-364adaf25c31?w=400&h=300&fit=crop"
+    ],
+    "featured": false,
+    "fileSize": "2.3 MB",
+    "lastUpdated": "2023-12-28T15:45:00Z"
+  },
+  {
+    "Id": 9,
+    "name": "Watermark Studio",
+    "description": "Add professional watermarks to your images with customizable opacity, positioning, and batch processing capabilities.",
+    "category": "Watermark Tools",
+    "supportedFormats": ["JPEG", "PNG", "TIFF", "BMP"],
+    "performanceScore": 91,
+    "downloadUrl": "https://example.com/watermark-studio",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=300&fit=crop"
+    ],
+    "featured": false,
+    "fileSize": "3.5 MB",
+    "lastUpdated": "2023-12-25T12:30:00Z"
+  },
+  {
+    "Id": 10,
+    "name": "Image Background Remover",
+    "description": "Automatically remove backgrounds from images using AI technology. Perfect for product photography and portraits.",
+    "category": "AI Tools",
+    "supportedFormats": ["JPEG", "PNG", "WebP"],
+    "performanceScore": 86,
+    "downloadUrl": "https://example.com/background-remover",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop"
+    ],
+    "featured": false,
+    "fileSize": "4.1 MB",
+    "lastUpdated": "2023-12-22T09:20:00Z"
+  },
+  {
+    "Id": 11,
+    "name": "RAW Converter Pro",
+    "description": "Convert RAW camera files to standard formats with advanced color correction and metadata preservation.",
+    "category": "RAW Tools",
+    "supportedFormats": ["RAW", "CR2", "NEF", "ARW", "DNG", "JPEG", "TIFF"],
+    "performanceScore": 94,
+    "downloadUrl": "https://example.com/raw-converter-pro",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1558655146-364adaf25c31?w=400&h=300&fit=crop"
+    ],
+    "featured": false,
+    "fileSize": "5.2 MB",
+    "lastUpdated": "2023-12-20T14:15:00Z"
+  },
+  {
+    "Id": 12,
+    "name": "Image Compressor Ultimate",
+    "description": "Universal image compression tool supporting all major formats with intelligent quality optimization.",
+    "category": "Compression Tools",
+    "supportedFormats": ["JPEG", "PNG", "WebP", "AVIF", "TIFF", "BMP", "GIF"],
+    "performanceScore": 93,
+    "downloadUrl": "https://example.com/compressor-ultimate",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=300&fit=crop",
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=300&fit=crop"
+    ],
+    "featured": true,
+    "fileSize": "3.8 MB",
+    "lastUpdated": "2023-12-18T11:00:00Z"
+  }
+]

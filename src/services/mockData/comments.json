@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "author": "Alex Johnson",
+    "content": "Great article! I've been using PNG optimization for years, but learned some new techniques here. The metadata removal tip alone saved me 30% file size.",
+    "timestamp": "2024-01-16T09:30:00Z",
+    "postId": 1,
+    "parentId": null,
+    "hasCode": false
+  },
+  {
+    "Id": 2,
+    "author": "Maria Garcia",
+    "content": "Thanks for the comprehensive guide. Here's a quick script I use for batch PNG optimization:\n\n```bash\nfor file in *.png; do\n  optipng -o7 \"$file\"\n  pngcrush -rem gAMA -rem cHRM -rem iCCP \"$file\" \"optimized_$file\"\ndone\n```\n\nThis combines OptiPNG and PNGCrush for maximum compression.",
+    "timestamp": "2024-01-16T14:15:00Z",
+    "postId": 1,
+    "parentId": null,
+    "hasCode": true
+  },
+  {
+    "Id": 3,
+    "author": "David Kim",
+    "content": "Excellent comparison between WebP and JPEG! The performance numbers really highlight the benefits. I'm convinced to start implementing WebP with JPEG fallbacks.",
+    "timestamp": "2024-01-13T10:45:00Z",
+    "postId": 2,
+    "parentId": null,
+    "hasCode": false
+  },
+  {
+    "Id": 4,
+    "author": "Lisa Chen",
+    "content": "The SVG optimization techniques are spot-on. I've been using SVGO for years, but the sprite sheet approach is new to me. Going to try it for my icon library.",
+    "timestamp": "2024-01-11T16:20:00Z",
+    "postId": 3,
+    "parentId": null,
+    "hasCode": false
+  },
+  {
+    "Id": 5,
+    "author": "Robert Taylor",
+    "content": "AVIF is definitely the future! Browser support is getting better each month. Here's my implementation for progressive enhancement:\n\n```html\n<picture>\n  <source srcset=\"hero.avif\" type=\"image/avif\">\n  <source srcset=\"hero.webp\" type=\"image/webp\">\n  <img src=\"hero.jpg\" alt=\"Hero image\" loading=\"lazy\">\n</picture>\n```",
+    "timestamp": "2024-01-09T08:30:00Z",
+    "postId": 4,
+    "parentId": null,
+    "hasCode": true
+  },
+  {
+    "Id": 6,
+    "author": "Jennifer Wu",
+    "content": "The batch processing automation guide is incredibly helpful. I've been doing everything manually - this will save me hours every week!",
+    "timestamp": "2024-01-06T12:10:00Z",
+    "postId": 5,
+    "parentId": null,
+    "hasCode": false
+  },
+  {
+    "Id": 7,
+    "author": "Michael Brown",
+    "content": "Progressive JPEG is underrated! The perceived performance improvement is noticeable, especially on slower connections. Great explanation of the technique.",
+    "timestamp": "2024-01-04T15:45:00Z",
+    "postId": 6,
+    "parentId": null,
+    "hasCode": false
+  },
+  {
+    "Id": 8,
+    "author": "Sarah Williams",
+    "content": "@Maria Garcia Thanks for sharing that script! I modified it slightly to preserve original files:\n\n```bash\nfor file in *.png; do\n  cp \"$file\" \"backup_$file\"\n  optipng -o7 \"$file\"\ndone\n```\n\nAlways good to keep backups when batch processing.",
+    "timestamp": "2024-01-16T18:30:00Z",
+    "postId": 1,
+    "parentId": 2,
+    "hasCode": true
+  },
+  {
+    "Id": 9,
+    "author": "Tom Anderson",
+    "content": "Has anyone tried the new JPEG XL format? I'm curious how it compares to AVIF in terms of compression and browser support.",
+    "timestamp": "2024-01-15T11:20:00Z",
+    "postId": 4,
+    "parentId": null,
+    "hasCode": false
+  },
+  {
+    "Id": 10,
+    "author": "Emma Davis",
+    "content": "The WebP comparison data is very convincing. I'm implementing this on my e-commerce site. The 28% bandwidth savings will really help with mobile users.",
+    "timestamp": "2024-01-14T09:15:00Z",
+    "postId": 2,
+    "parentId": null,
+    "hasCode": false
+  }
+]
